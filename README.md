@@ -3,7 +3,7 @@
 A simple React app that fetches products from the *Fake Store API* and lets users add items to a cart using a *modal*. Cart count is shown in the navbar, duplicate adds are blocked with an alert, and items can be removed from the modal.
 
 ## Live Demo
-(After deploying to Netlify, paste your URL here)
+https://curious-cucurucho-dd235b.netlify.app/
 
 ## Features
 - Fetches products from **https://fakestoreapi.com/products**
